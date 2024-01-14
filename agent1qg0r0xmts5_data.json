@@ -1,0 +1,72 @@
+{
+    "1": {
+        "name": "Glass Water Tumbler Set - Acme Elite",
+        "price": 30.0,
+        "quantity": 450
+    },
+    "2": {
+        "name": "Smart Kit With Bag",
+        "price": 75.0,
+        "quantity": 225
+    },
+    "3": {
+        "name": "Peek A Boo Chocochip Cookies Pack Of 4",
+        "price": 45.0,
+        "quantity": 300
+    },
+    "4": {
+        "name": "Potato Regular Offer",
+        "price": 90.0,
+        "quantity": 270
+    },
+    "5": {
+        "name": "Embassy Juice set of 6",
+        "price": 24.0,
+        "quantity": 540
+    },
+    "6": {
+        "name": "Kadak Tea Classic Blend",
+        "price": 15.0,
+        "quantity": 750
+    },
+    "7": {
+        "name": "Frozen Green Peas",
+        "price": 36.0,
+        "quantity": 360
+    },
+    "1": {
+        "name": "Glass Water Tumbler Set - Acme Elite",
+        "price": 30.0,
+        "quantity": 450
+    },
+    "2": {
+        "name": "Smart Kit With Bag",
+        "price": 75.0,
+        "quantity": 225
+    },
+    "3": {
+        "name": "Peek A Boo Chocochip Cookies Pack Of 4",
+        "price": 45.0,
+        "quantity": 300
+    },
+    "4": {
+        "name": "Potato Regular Offer",
+        "price": 90.0,
+        "quantity": 270
+    },
+    "5": {
+        "name": "Embassy Juice set of 6",
+        "price": 24.0,
+        "quantity": 540
+    },
+    "6": {
+        "name": "Kadak Tea Classic Blend",
+        "price": 15.0,
+        "quantity": 750
+    },
+    "7": {
+        "name": "Frozen Green Peas",
+        "price": 36.0,
+        "quantity": 360
+    }
+}

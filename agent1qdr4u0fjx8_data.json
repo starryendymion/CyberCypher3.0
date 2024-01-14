@@ -1,0 +1,37 @@
+{
+    "1": {
+        "name": "Utensil Dishwash Gel Lemon Pack Of 2",
+        "price": 54.0,
+        "quantity": 180
+    },
+    "2": {
+        "name": "Soogo Aria Whisky Glass Set of 6-320ml",
+        "price": 18.0,
+        "quantity": 600
+    },
+    "3": {
+        "name": "Glass Water Tumbler Set - Embassy Cool",
+        "price": 30.0,
+        "quantity": 450
+    },
+    "4": {
+        "name": "Khaman Dhokla Mix",
+        "price": 75.0,
+        "quantity": 225
+    },
+    "5": {
+        "name": "Frozen Green Peas",
+        "price": 45.0,
+        "quantity": 300
+    },
+    "6": {
+        "name": "Baby Skincare Wipes",
+        "price": 90.0,
+        "quantity": 270
+    },
+    "7": {
+        "name": "Face Wipes Tea Tree & Neem",
+        "price": 24.0,
+        "quantity": 540
+    }
+}

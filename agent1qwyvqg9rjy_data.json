@@ -1,0 +1,37 @@
+{
+    "1": {
+        "name": "Ec Octave Water Tumbler Set",
+        "price": 8.0,
+        "quantity": 180
+    },
+    "2": {
+        "name": "Chicken Nuggets",
+        "price": 5.0,
+        "quantity": 250
+    },
+    "3": {
+        "name": "Namkeen Khatta Meetha",
+        "price": 36.0,
+        "quantity": 360
+    },
+    "4": {
+        "name": "Toilet Cleaner Bt",
+        "price": 54.0,
+        "quantity": 180
+    },
+    "5": {
+        "name": "Soogo Aria Water Glass Set of 6- 260ml",
+        "price": 18.0,
+        "quantity": 600
+    },
+    "6": {
+        "name": "Glass Water Tumbler Set - Egypt",
+        "price": 30.0,
+        "quantity": 450
+    },
+    "7": {
+        "name": "Kadak Tea Classic Blend",
+        "price": 75.0,
+        "quantity": 225
+    }
+}
